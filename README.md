@@ -1,3 +1,6 @@
+API testing using Postman and Report generation, covering the essential HTTP methods: GET,
+POST, PUT, PATCH, and DELETE for a Book Ordering System.
+
 API : https://simple-books-api.glitch.me
 
 Tool Used: Postman, Command Prompt, Newman
