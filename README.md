@@ -1,5 +1,5 @@
 API testing using Postman and Report generation, covering the essential HTTP methods: GET,
-POST, PUT, PATCH, and DELETE for a Book Ordering System.
+POST, PUT, PATCH, and DELETE for a Book Ordering System. Each method is tested to ensure the API endpoints function as expected.
 
 API : https://simple-books-api.glitch.me
 
